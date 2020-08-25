@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -war target/itservicetesttask-1.0-SNAPSHOT.war --server.port=$PORT
